@@ -1,12 +1,11 @@
 struct TestView: View {
   var body: some View {
-    Text("green")
-    Text("green")
-    Text("green")
-    Text("green")
-    Text("green")
-    Text("hyerin")
-    Text("hyerin")
-    Text("hyerin")
+    VStack {
+      Text("green")
+      
+      Text("test PR")
+      
+      Text("test PR")
+    }
   }
 }
