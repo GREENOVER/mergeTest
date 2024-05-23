@@ -1,9 +1,9 @@
 struct TestView: View {
   var body: some View {
     VStack {
-      Text("green")
+      Text("greeeeeen")
       
-      Text("test PR")
+      Text("test PR PR")
       
       Text("green PR")
     }
