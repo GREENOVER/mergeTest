@@ -5,7 +5,7 @@ struct TestView: View {
       
       Text("test PR")
       
-      Text("test PR")
+      Text("green PR")
     }
   }
 }
